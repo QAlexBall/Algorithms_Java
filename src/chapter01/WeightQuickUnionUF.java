@@ -1,7 +1,10 @@
 package chapter01;
 
+import edu.princeton.cs.algs4.StdIn;
+
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.IOException;
 import java.util.Scanner;
 
 public class WeightQuickUnionUF {
@@ -11,13 +14,15 @@ public class WeightQuickUnionUF {
     public WeightQuickUnionUF(int N) {
         count = N;
         id = new int[N];
+        for (int i = 0; i < N; i++) id[i] = i;
+        sz = new int[N];
         for (int i = 0; i < N; i++) sz[i] = 1;
     }
     public int count() {
         return count;
     }
     public boolean connected(int p, int q) {
-        return find(q) == find(q);
+        return find(p) == find(q);
     }
     public int find(int p) {
         // 跟随链接找到根节点
@@ -38,8 +43,8 @@ public class WeightQuickUnionUF {
         count--;
     }
 
-    public static void main(String[] args) throws FileNotFoundException {
-        FileReader fr = new FileReader("src//chapter01/tinyUF.txt");
+    public static void main(String[] args) throws IOException {
+        FileReader fr = new FileReader("src//chapter01//tinyUF.txt");
         Scanner scanner = new Scanner(fr);
         int N = scanner.nextInt();
         WeightQuickUnionUF uf = new WeightQuickUnionUF(N);
@@ -50,6 +55,6 @@ public class WeightQuickUnionUF {
             uf.union(p, q);
             System.out.println(p + " " + q);
         }
-        System.out.println(uf.count() + "components");
+        System.out.println(uf.count() + " components");
     }
 }
