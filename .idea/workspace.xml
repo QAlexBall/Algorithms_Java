@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30275b7a-f41f-4fd4-9336-0a65393167da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter03/BinarySearchST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter03/FrequencyCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter03/SequentialSearchST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter03/tinyTale.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter03/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/BinarySearchST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/BinarySearchST.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,8 +33,14 @@
       <file leaf-file-name="BinarySearchST.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/chapter03/BinarySearchST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="-57">
+              <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+              <folding>
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#680#681#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -295,12 +290,12 @@
       <workItem from="1525098889338" duration="16000" />
       <workItem from="1525100561062" duration="70000" />
       <workItem from="1525102508600" duration="21000" />
-      <workItem from="1530773379952" duration="6530000" />
+      <workItem from="1530773379952" duration="10071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7086000" />
+    <option name="totallyTimeSpent" value="10627000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -530,8 +525,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter03/BinarySearchST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="-57">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
