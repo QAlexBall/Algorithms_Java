@@ -1,308 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/chapter01/UF.java" line="78" />
-    <bookmark url="file://$PROJECT_DIR$/src/chapter01/UF.java" line="50" mnemonic="2" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="51c40467-c127-4fac-89a2-6d4aacff525e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter03/SearchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter03/a.txt" afterDir="false" />
+    <list default="true" id="30275b7a-f41f-4fd4-9336-0a65393167da" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chapter03/BinarySearchST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/FrequencyCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/SequentialSearchST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/tinyTale.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/chapter01/Array_Deal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/chapter01/Array_Deal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/chapter01/Gcd_Alg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/chapter01/Gcd_Alg.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/chapter01/Typical_Static_Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/chapter01/Typical_Static_Method.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/chapter01/UF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/chapter01/UF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/chapter01/WeightQuickUnionUF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/chapter01/WeightQuickUnionUF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/chapter02/Shell_Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/chapter02/Shell_Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/chapter02/TopM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/chapter02/TopM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/AVLTreeST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/AVLTreeST$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/AVLTreeST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/AVLTreeST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Accumulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Accumulator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/AcyclicLP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/AcyclicLP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/AcyclicSP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/AcyclicSP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/AdjMatrixEdgeWeightedDigraph$AdjIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/AdjMatrixEdgeWeightedDigraph$AdjIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/AdjMatrixEdgeWeightedDigraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/AdjMatrixEdgeWeightedDigraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Alphabet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Alphabet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Arbitrage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Arbitrage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/AssignmentProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/AssignmentProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Average.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Average.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BST$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BTree$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BTree$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BTree$Entry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BTree$Entry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BTree$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Bag$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Bag$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Bag$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Bag$ListIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Bag$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Bag$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Bag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Bag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BellmanFordSP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BellmanFordSP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinaryDump.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinaryDump.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinaryIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinaryIn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinaryInsertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinaryInsertion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinaryOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinaryOut.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinarySearchST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinarySearchST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinaryStdIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinaryStdIn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinaryStdOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinaryStdOut.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinomialMinPQ$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinomialMinPQ$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinomialMinPQ$MyComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinomialMinPQ$MyComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinomialMinPQ$MyIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinomialMinPQ$MyIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinomialMinPQ$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinomialMinPQ$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinomialMinPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BinomialMinPQ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Bipartite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Bipartite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BipartiteMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BipartiteMatching.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BipartiteX.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BipartiteX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BlackFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BlackFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BoruvkaMST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BoruvkaMST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BoyerMoore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BoyerMoore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BreadthFirstDirectedPaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BreadthFirstDirectedPaths.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BreadthFirstPaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/BreadthFirstPaths.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/CC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/CC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/CPM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/CPM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ClosestPair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ClosestPair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/CollisionSystem$Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/CollisionSystem$Event.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/CollisionSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/CollisionSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Complex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Complex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Count.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Counter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Cycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Cycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Date.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Date.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DeDup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DeDup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DegreesOfSeparation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DegreesOfSeparation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DepthFirstDirectedPaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DepthFirstDirectedPaths.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DepthFirstOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DepthFirstOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DepthFirstPaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DepthFirstPaths.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DepthFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DepthFirstSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Digraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Digraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DigraphGenerator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DigraphGenerator$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DigraphGenerator$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DigraphGenerator$Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DigraphGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DigraphGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DijkstraAllPairsSP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DijkstraAllPairsSP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DijkstraSP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DijkstraSP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DijkstraUndirectedSP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DijkstraUndirectedSP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DirectedCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DirectedCycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DirectedCycleX.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DirectedCycleX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DirectedDFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DirectedDFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DirectedEdge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DirectedEdge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DirectedEulerianCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DirectedEulerianCycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DirectedEulerianPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DirectedEulerianPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DoublingRatio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DoublingRatio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DoublingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DoublingTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Draw.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Draw.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DrawListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/DrawListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/EdgeWeightedDigraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/EdgeWeightedDigraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/EdgeWeightedDirectedCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/EdgeWeightedDirectedCycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/EdgeWeightedGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/EdgeWeightedGraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/EulerianCycle$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/EulerianCycle$Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/EulerianCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/EulerianCycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/EulerianPath$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/EulerianPath$Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/EulerianPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/EulerianPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FFT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FFT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FarthestPair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FarthestPair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FenwickTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FenwickTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FibonacciMinPQ$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FibonacciMinPQ$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FibonacciMinPQ$MyComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FibonacciMinPQ$MyComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FibonacciMinPQ$MyIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FibonacciMinPQ$MyIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FibonacciMinPQ$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FibonacciMinPQ$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FibonacciMinPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FibonacciMinPQ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FileIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FileIndex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FlowEdge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FlowEdge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FlowNetwork.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FlowNetwork.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FloydWarshall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FloydWarshall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FordFulkerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FordFulkerson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FrequencyCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/FrequencyCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GREP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GREP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GabowSCC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GabowSCC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GaussJordanElimination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GaussJordanElimination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GaussianElimination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GaussianElimination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Genome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Genome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GlobalMincut$CutPhase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GlobalMincut$CutPhase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GlobalMincut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GlobalMincut.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GrahamScan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GrahamScan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GraphGenerator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GraphGenerator$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GraphGenerator$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GraphGenerator$Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GraphGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/GraphGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Heap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/HexDump.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/HexDump.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/HopcroftKarp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/HopcroftKarp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Huffman$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Huffman$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Huffman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Huffman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/In.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/In.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexBinomialMinPQ$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexBinomialMinPQ$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexBinomialMinPQ$MyComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexBinomialMinPQ$MyComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexBinomialMinPQ$MyIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexBinomialMinPQ$MyIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexBinomialMinPQ$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexBinomialMinPQ$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexBinomialMinPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexBinomialMinPQ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexFibonacciMinPQ$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexFibonacciMinPQ$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexFibonacciMinPQ$MyComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexFibonacciMinPQ$MyComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexFibonacciMinPQ$MyIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexFibonacciMinPQ$MyIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexFibonacciMinPQ$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexFibonacciMinPQ$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexFibonacciMinPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexFibonacciMinPQ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexMaxPQ$HeapIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexMaxPQ$HeapIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexMaxPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexMaxPQ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexMinPQ$HeapIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexMinPQ$HeapIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexMinPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexMinPQ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexMultiwayMinPQ$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexMultiwayMinPQ$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexMultiwayMinPQ$MyComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexMultiwayMinPQ$MyComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexMultiwayMinPQ$MyIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexMultiwayMinPQ$MyIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexMultiwayMinPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/IndexMultiwayMinPQ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Insertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Insertion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/InsertionX.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/InsertionX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Interval1D$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Interval1D$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Interval1D$LengthComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Interval1D$LengthComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Interval1D$MaxEndpointComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Interval1D$MaxEndpointComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Interval1D$MinEndpointComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Interval1D$MinEndpointComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Interval1D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Interval1D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Interval2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Interval2D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Inversions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Inversions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/KMP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/KMP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/KWIK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/KWIK.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Knuth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Knuth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/KosarajuSharirSCC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/KosarajuSharirSCC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/KruskalMST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/KruskalMST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LSD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LSD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LZW.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LZW.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LazyPrimMST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LazyPrimMST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinearProbingHashST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinearProbingHashST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinearProgramming.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinearProgramming.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinearRegression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinearRegression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedBag$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedBag$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedBag$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedBag$ListIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedBag$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedBag$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedBag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedBag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedQueue$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedQueue$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedQueue$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedQueue$ListIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedQueue$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedQueue$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedStack$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedStack$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedStack$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedStack$ListIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedStack$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedStack$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LinkedStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LongestCommonSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LongestCommonSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LongestRepeatedSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LongestRepeatedSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LookupCSV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LookupCSV.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LookupIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/LookupIndex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MSD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MSD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MaxPQ$HeapIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MaxPQ$HeapIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MaxPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MaxPQ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Merge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MergeBU.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MergeBU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MergeX.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MergeX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MinPQ$HeapIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MinPQ$HeapIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MinPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MinPQ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Multiway.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Multiway.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MultiwayMinPQ$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MultiwayMinPQ$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MultiwayMinPQ$MyComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MultiwayMinPQ$MyComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MultiwayMinPQ$MyIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MultiwayMinPQ$MyIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MultiwayMinPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/MultiwayMinPQ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/NFA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/NFA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/NonrecursiveDFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/NonrecursiveDFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/NonrecursiveDirectedDFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/NonrecursiveDirectedDFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Out.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Out.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Particle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Particle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/PatriciaSET$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/PatriciaSET$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/PatriciaSET.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/PatriciaSET.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/PatriciaST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/PatriciaST$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/PatriciaST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/PatriciaST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Picture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Picture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/PictureDump.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/PictureDump.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Point2D$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Point2D$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Point2D$Atan2Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Point2D$Atan2Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Point2D$DistanceToOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Point2D$DistanceToOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Point2D$PolarOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Point2D$PolarOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Point2D$ROrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Point2D$ROrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Point2D$XOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Point2D$XOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Point2D$YOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Point2D$YOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Point2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Point2D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Polynomial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Polynomial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/PrimMST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/PrimMST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Queue$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Queue$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Queue$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Queue$ListIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Queue$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Queue$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Quick.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Quick.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Quick3string.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Quick3string.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Quick3way.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Quick3way.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/QuickFindUF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/QuickFindUF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/QuickUnionUF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/QuickUnionUF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/QuickX.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/QuickX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/RabinKarp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/RabinKarp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/RandomSeq.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/RandomSeq.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/RectHV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/RectHV.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/RedBlackBST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/RedBlackBST$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/RedBlackBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/RedBlackBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ResizingArrayBag$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ResizingArrayBag$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ResizingArrayBag$ArrayIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ResizingArrayBag$ArrayIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ResizingArrayBag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ResizingArrayBag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ResizingArrayQueue$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ResizingArrayQueue$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ResizingArrayQueue$ArrayIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ResizingArrayQueue$ArrayIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ResizingArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ResizingArrayQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ResizingArrayStack$ReverseArrayIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ResizingArrayStack$ReverseArrayIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ResizingArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ResizingArrayStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/RunLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/RunLength.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SET.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SET.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SegmentTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SegmentTree$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SegmentTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SegmentTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Selection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Selection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SeparateChainingHashST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SeparateChainingHashST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SequentialSearchST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SequentialSearchST$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SequentialSearchST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SequentialSearchST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Shell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Shell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SparseVector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SparseVector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Stack$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Stack$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Stack$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Stack$ListIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Stack$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Stack$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StaticSETofInts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StaticSETofInts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StdArrayIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StdArrayIO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StdAudio$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StdAudio$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StdAudio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StdAudio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StdDraw.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StdDraw.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StdIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StdIn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StdOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StdOut.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StdRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StdRandom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StdStats.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StdStats.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Stopwatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Stopwatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StopwatchCPU.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/StopwatchCPU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SuffixArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SuffixArray$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SuffixArray$Suffix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SuffixArray$Suffix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SuffixArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SuffixArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SuffixArrayX.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SuffixArrayX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SymbolDigraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SymbolDigraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SymbolGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/SymbolGraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TST$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TST$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TST$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TarjanSCC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TarjanSCC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ThreeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ThreeSumFast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/ThreeSumFast.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TopM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TopM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Topological.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Topological.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TopologicalX.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TopologicalX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Transaction$HowMuchOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Transaction$HowMuchOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Transaction$WhenOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Transaction$WhenOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Transaction$WhoOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Transaction$WhoOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Transaction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TransitiveClosure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TransitiveClosure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TrieSET$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TrieSET$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TrieSET$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TrieSET$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TrieSET.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TrieSET.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TrieST$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TrieST$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TrieST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TrieST$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TrieST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TrieST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TwoPersonZeroSumGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/TwoPersonZeroSumGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/UF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/UF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Vector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Vector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/WeightedQuickUnionUF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/WeightedQuickUnionUF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/WhiteFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/WhiteFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Whitelist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA/edu/princeton/cs/algs4/Whitelist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter03/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/a.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -312,30 +23,38 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Algorithms$UF.coverage" NAME="UF Coverage Results" MODIFIED="1520686758330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>chapter01.*</FILTER>
-    </SUITE>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TopM.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter02/TopM.java">
+      <file leaf-file-name="SequentialSearchST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter03/SequentialSearchST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="351">
+              <caret line="62" column="40" lean-forward="true" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1091#1092#0" expanded="true" />
+                <element signature="e#1150#1151#0" expanded="true" />
+                <element signature="e#1011#1012#0" expanded="true" />
+                <element signature="e#1038#1039#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchExample.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinarySearchST.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter03/BinarySearchST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchExample.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter03/SearchExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+            <state relative-caret-position="425">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -343,11 +62,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter03/a.txt">
+      <file leaf-file-name="ST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/ST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="68">
+              <caret line="144" column="2" lean-forward="true" selection-start-line="144" selection-end-line="146" selection-end-column="5" />
+              <folding>
+                <element signature="e#2642#2643#0" expanded="true" />
+                <element signature="e#2688#2689#0" expanded="true" />
+                <element signature="e#5510#5511#0" expanded="true" />
+                <element signature="e#5544#5545#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -361,40 +86,15 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>UF</find>
-      <find>UF.java</find>
-    </findStrings>
-    <dirStrings>
-      <dir>H:\IDEA</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter01/Gcd_Alg.java" />
-        <option value="$PROJECT_DIR$/src/chapter01/Typical_Static_Method.java" />
-        <option value="$PROJECT_DIR$/src/chapter01/Array_Deal.java" />
-        <option value="$PROJECT_DIR$/src/edu/princeton/cs/algs4/UF.java" />
-        <option value="$PROJECT_DIR$/src/edu/princeton/cs/algs4/KruskalMST.java" />
-        <option value="$PROJECT_DIR$/src/edu/princeton/cs/algs4/LazyPrimMST.java" />
-        <option value="$PROJECT_DIR$/src/edu/princeton/cs/algs4/BoruvkaMST.java" />
-        <option value="$PROJECT_DIR$/src/edu/princeton/cs/algs4/PrimMST.java" />
-        <option value="$PROJECT_DIR$/src/chapter01/Scanner_test.java" />
-        <option value="$PROJECT_DIR$/src/chapter01/Quick_Union.java" />
-        <option value="$PROJECT_DIR$/src/edu/princeton/cs/algs4/GlobalMincut.java" />
-        <option value="$PROJECT_DIR$/src/chapter01/UF.java" />
-        <option value="$PROJECT_DIR$/src/chapter02/test.java" />
-        <option value="$PROJECT_DIR$/src/chapter02/Shell_Sort.java" />
-        <option value="$PROJECT_DIR$/src/chapter02/MaxPQ.java" />
-        <option value="$PROJECT_DIR$/src/chapter01/WeightQuickUnionUF.java" />
-        <option value="$PROJECT_DIR$/src/chapter02/TopM.java" />
-        <option value="$PROJECT_DIR$/src/chapter03/SearchExample.java" />
         <option value="$PROJECT_DIR$/src/chapter03/a.txt" />
+        <option value="$PROJECT_DIR$/src/chapter03/SequentialSearchST.java" />
+        <option value="$PROJECT_DIR$/src/chapter03/BinarySearchST.java" />
       </list>
     </option>
   </component>
@@ -404,63 +104,36 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="179" />
-    <option name="y" value="113" />
-    <option name="width" value="736" />
-    <option name="height" value="716" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>Probable bugsJava</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>MismatchedArrayReadWrite</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="ProjectFrameBounds" extendedState="7" fullScreen="true">
+    <option name="x" value="309" />
+    <option name="y" value="88" />
+    <option name="width" value="935" />
+    <option name="height" value="555" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms_Java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms_Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms_Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms_Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter03" type="462c0819:PsiDirectoryNode" />
@@ -470,23 +143,16 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\IDEA_Ult\Algorithms_Java\src\chapter02" />
-      <recent name="H:\IDEA\src\chapter01" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -500,24 +166,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SearchExample">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="Accumulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.princeton.cs.algs4.Accumulator" />
-      <module name="IDEA" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+  <component name="RunManager" selected="Application.SequentialSearchST">
+    <configuration name="FrequencyCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter03.FrequencyCounter" />
+      <module name="Algorithms_Java" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.princeton.cs.algs4.*" />
+          <option name="PATTERN" value="chapter03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="SearchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter03.SearchExample" />
-      <module name="IDEA" />
+      <module name="Algorithms_Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -526,11 +190,21 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TopM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter02.TopM" />
-      <module name="IDEA" />
-      <option name="PROGRAM_PARAMETERS" value="5" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    <configuration name="SequentialSearchST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter03.SequentialSearchST" />
+      <module name="Algorithms_Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Shell_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter02.Shell_Sort" />
+      <module name="Algorithms_Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter02.*" />
@@ -538,24 +212,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="UF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter01.UF" />
-      <module name="IDEA" />
+    <configuration name="TopM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter02.TopM" />
+      <module name="Algorithms_Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="WeightQuickUnionUF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter01.WeightQuickUnionUF" />
-      <module name="IDEA" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter01.*" />
+          <option name="PATTERN" value="chapter02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -601,33 +264,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
     <list>
-      <item itemvalue="Application.Accumulator" />
-      <item itemvalue="Application.TopM" />
-      <item itemvalue="Application.WeightQuickUnionUF" />
-      <item itemvalue="Application.UF" />
+      <item itemvalue="Application.FrequencyCounter" />
+      <item itemvalue="Application.Shell_Sort" />
       <item itemvalue="Application.SearchExample" />
+      <item itemvalue="Application.TopM" />
+      <item itemvalue="Application.SequentialSearchST" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SequentialSearchST" />
+        <item itemvalue="Application.FrequencyCounter" />
         <item itemvalue="Application.SearchExample" />
+        <item itemvalue="Application.Shell_Sort" />
         <item itemvalue="Application.TopM" />
-        <item itemvalue="Application.WeightQuickUnionUF" />
-        <item itemvalue="Application.UF" />
-        <item itemvalue="Application.Accumulator" />
       </list>
     </recent_temporary>
   </component>
@@ -636,34 +286,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="51c40467-c127-4fac-89a2-6d4aacff525e" name="Default" comment="" />
-      <created>1520670011459</created>
+      <changelist id="30275b7a-f41f-4fd4-9336-0a65393167da" name="Default" comment="" />
+      <created>1525000749030</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1520670011459</updated>
-      <workItem from="1520743079011" duration="1348000" />
-      <workItem from="1520748318052" duration="789000" />
-      <workItem from="1520837027105" duration="1261000" />
-      <workItem from="1520843603474" duration="2156000" />
-      <workItem from="1520848552737" duration="2790000" />
-      <workItem from="1520936668376" duration="623000" />
-      <workItem from="1520944985515" duration="133000" />
-      <workItem from="1520954976817" duration="1085000" />
-      <workItem from="1521187560471" duration="118000" />
-      <workItem from="1521198797036" duration="3003000" />
-      <workItem from="1521288664465" duration="3640000" />
-      <workItem from="1521542468436" duration="598000" />
-      <workItem from="1521819184999" duration="147000" />
-      <workItem from="1521896175464" duration="39000" />
-      <workItem from="1521896330817" duration="5000" />
-      <workItem from="1521896449700" duration="558000" />
-      <workItem from="1521897039553" duration="3327000" />
-      <workItem from="1521952483543" duration="2633000" />
+      <updated>1525000749030</updated>
+      <workItem from="1525000754089" duration="449000" />
+      <workItem from="1525098889338" duration="16000" />
+      <workItem from="1525100561062" duration="70000" />
+      <workItem from="1525102508600" duration="21000" />
+      <workItem from="1530773379952" duration="6530000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24253000" />
+    <option name="totallyTimeSpent" value="7086000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -675,67 +312,67 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="179" y="113" width="736" height="716" extended-state="0" />
+    <frame x="0" y="-33" width="1366" height="801" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.3297546" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32561985" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50292826" side_tool="true" weight="0.3288889" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49707174" weight="0.23156089" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32921174" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289256" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32850942" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19826339" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289256" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289256" />
       <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4188406" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.3272727" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15378788" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32980332" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.3288889" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3297546" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19826339" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.3013889" />
-      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15378788" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289256" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32980332" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.3262519" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25475842" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289256" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3289256" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289256" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -744,232 +381,121 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter01/UF.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter02/TopM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#UF#0;class#UF#0" />
-            <element signature="method#quick_find_union#0;class#UF#0" />
-            <element signature="method#quick_union_find#0;class#UF#0" />
-            <element signature="method#quick_union#0;class#UF#0" />
-            <element signature="e#1467#1480#0" />
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/io/FileReader.java" />
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/StdIn.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter01/tinyUF.txt">
+    <entry file="file://$PROJECT_DIR$/src/chapter03/FrequencyCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="3" />
+        <state relative-caret-position="391">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter01/Scanner_test.java" />
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/StdOut.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter01/UF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#UF#0;class#UF#0" />
-            <element signature="method#quick_find_union#0;class#UF#0" />
-            <element signature="method#quick_union_find#0;class#UF#0" />
-            <element signature="method#quick_union#0;class#UF#0" />
-            <element signature="e#1467#1480#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/StdIn.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter01/Gcd_Alg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/StdIn.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter01/UF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="43" column="50" lean-forward="true" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter01/Gcd_Alg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/StdIn.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter01/UF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/Out.java" />
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/LazyPrimMST.java" />
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/UF.java" />
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/QuickUnionUF.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Scanner.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/InputMismatchException.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter01/Scanner_test.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter01/Quick_Union.java" />
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/StdOut.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/io/FileReader.java" />
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/BoruvkaMST.java" />
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/GlobalMincut.java" />
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/KruskalMST.java" />
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/PrimMST.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter01/Array_Deal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-621">
-          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter01/Gcd_Alg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Comparable.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter02/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/AcyclicSP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2177">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/AcyclicLP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/MaxPQ.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter02/Shell_Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="238">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/FlowNetwork.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter03/SearchExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/DrawListener.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter03/FrequencyCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-967">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="306">
+          <caret line="18" column="59" lean-forward="true" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/Accumulator.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter02/Shell_Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+        <state relative-caret-position="238">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/BST.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter03/SearchExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="154" column="68" selection-start-line="154" selection-start-column="68" selection-end-line="154" selection-end-column="68" />
+        <state relative-caret-position="187">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/MinPQ.java">
+    <entry file="file://$PROJECT_DIR$/Algorithms_Java.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="144" column="9" lean-forward="true" selection-start-line="144" selection-start-column="9" selection-end-line="144" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/Transaction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="686">
-          <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/tinyBatch.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/StdIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="243" column="34" lean-forward="true" selection-start-line="243" selection-start-column="34" selection-end-line="243" selection-end-column="34" />
-          <folding>
-            <element signature="e#10191#10192#0" expanded="true" />
-            <element signature="e#10232#10233#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter01/WeightQuickUnionUF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="57" column="55" lean-forward="true" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter01/tinyUF.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter01/Typical_Static_Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter01/UF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#UF#0;class#UF#0" />
-            <element signature="method#quick_find_union#0;class#UF#0" />
-            <element signature="method#quick_union_find#0;class#UF#0" />
-            <element signature="method#quick_union#0;class#UF#0" />
-            <element signature="e#1467#1480#0" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter02/TopM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/Shell_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/FrequencyCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/SearchExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Map.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/TreeMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="450" column="18" selection-start-line="450" selection-start-column="18" selection-end-line="450" selection-end-column="18" />
+          <folding>
+            <element signature="e#12353#12354#0" expanded="true" />
+            <element signature="e#12398#12399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/ST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="144" column="2" lean-forward="true" selection-start-line="144" selection-end-line="146" selection-end-column="5" />
+          <folding>
+            <element signature="e#2642#2643#0" expanded="true" />
+            <element signature="e#2688#2689#0" expanded="true" />
+            <element signature="e#5510#5511#0" expanded="true" />
+            <element signature="e#5544#5545#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -977,17 +503,35 @@
     <entry file="file://$PROJECT_DIR$/src/chapter03/a.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter03/SearchExample.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter03/tinyTale.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        <state relative-caret-position="34">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/SequentialSearchST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="62" column="40" lean-forward="true" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1091#1092#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1038#1039#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter03/BinarySearchST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1043,11 +587,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>IDEA</last-edited>
+          <last-edited>Algorithms_Java</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1055,7 +600,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>9</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
