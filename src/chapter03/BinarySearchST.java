@@ -1,6 +1,7 @@
 package chapter03;
-/**
- * 基于有序数组
+
+/*
+  基于有序数组
  */
 
 import static edu.princeton.cs.algs4.BinaryStdIn.isEmpty;
@@ -28,25 +29,28 @@ public class BinarySearchST<Key extends  Comparable<Key>, Value> {
 
     public int rank(Key key) { // 基于有序数组的二分查找
         int lo = 0;
-        int hi = N -1;
-        while(lo <= hi) {
+        int hi = N - 1;
+        while (lo <= hi) {
             int mid = lo + (hi - lo) / 2;
             int cmp = key.compareTo(keys[mid]);
-            if      (cmp < 0) { hi = mid - 1; }
-            else if (cmp > 0) { lo = mid + 1; }
-            else return mid;
+            if (cmp < 0) {
+                hi = mid - 1;
+            } else if (cmp > 0) {
+                lo = mid + 1;
+            } else return mid;
         }
         return lo;
     }
 
     public int rank(Key key, int lo, int hi) { // 递归的二分查找
-        if(hi < lo) return lo;
+        if (hi < lo) return lo;
         int mid = lo + (hi - lo) / 2;
         int cmp = key.compareTo(keys[mid]);
-        if      (cmp < 0) return rank(key, lo, mid - 1);
+        if (cmp < 0) return rank(key, lo, mid - 1);
         else if (cmp > 0) return rank(key, mid + 1, hi);
         else return mid;
     }
+
     public void put(Key key, Value val) {
         // 查找键，找到则更新新值，否则创建新的元素
         int i = rank(key);
@@ -55,7 +59,7 @@ public class BinarySearchST<Key extends  Comparable<Key>, Value> {
             return;
         }
 
-        for(int j = N; j > i; j--) {
+        for (int j = N; j > i; j--) {
             keys[j] = keys[j - 1];
             vals[j] = vals[j - 1];
             keys[i] = key;
@@ -67,5 +71,12 @@ public class BinarySearchST<Key extends  Comparable<Key>, Value> {
         N++;
     }
 
+    public void delete(Key key) {
 
+    }
+
+    public static void main(String [] args) {
+        int N = 20;
+        BinarySearchST bst = new BinarySearchST(N);
+    }
 }

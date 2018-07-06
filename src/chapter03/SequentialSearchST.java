@@ -1,6 +1,6 @@
 package chapter03;
-/**
- * 基于无序链表
+/*
+  基于无序链表
  */
 
 import edu.princeton.cs.algs4.StdIn;
