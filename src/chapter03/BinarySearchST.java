@@ -4,7 +4,12 @@ package chapter03;
   基于有序数组
  */
 
-import static edu.princeton.cs.algs4.BinaryStdIn.isEmpty;
+import edu.princeton.cs.algs4.Queue;
+import edu.princeton.cs.algs4.StdIn;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
 
 public class BinarySearchST<Key extends  Comparable<Key>, Value> {
     private Key[] keys;
@@ -20,6 +25,30 @@ public class BinarySearchST<Key extends  Comparable<Key>, Value> {
         return N;
     }
 
+    public boolean isEmpty() {
+        return size() == 0;
+    }
+
+    public Key min() {
+        return keys[0];
+    }
+
+    public Key max() {
+        return keys[N - 1];
+    }
+
+    public Key select(int k) {
+        return keys[k];
+    }
+
+//    public Iterable<Key> keys(Key lo, Key hi) {
+//        Queue<Key> q = new Queue<Key>();
+//        for (int i = rank(lo); i < rank(hi); i++)
+//            q.enqueue(keys[i]);
+//        if (contains(hi))
+//            q.enqueue(keys[rank(hi)]);
+//        return q;
+//    }
     public Value get(Key key) {
         if (isEmpty()) return null;
         int i = rank(key);
@@ -62,10 +91,7 @@ public class BinarySearchST<Key extends  Comparable<Key>, Value> {
         for (int j = N; j > i; j--) {
             keys[j] = keys[j - 1];
             vals[j] = vals[j - 1];
-            keys[i] = key;
-            vals[i] = val;
         }
-
         keys[i] = key;
         vals[i] = val;
         N++;
@@ -76,7 +102,18 @@ public class BinarySearchST<Key extends  Comparable<Key>, Value> {
     }
 
     public static void main(String [] args) {
-        int N = 20;
-        BinarySearchST bst = new BinarySearchST(N);
+        try {
+            FileInputStream input = new FileInputStream("src/chapter03/a.txt");
+            System.setIn(input);
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        int capacity = 20;
+        BinarySearchST<String, Integer> st = new BinarySearchST<>(capacity);
+        for (int i = 0; !StdIn.isEmpty(); i++) {
+            char key = StdIn.readChar();
+            st.put(String.valueOf(key), i);
+        }
+        System.out.println(st.get("A"));
     }
 }
