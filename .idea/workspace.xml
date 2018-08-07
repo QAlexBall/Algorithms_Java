@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30275b7a-f41f-4fd4-9336-0a65393167da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Divide_Two_Integers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Buying_Stock1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms_Java/LeetCode/Divide_Two_Integers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/LeetCode/Divide_Two_Integers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Divide_Two_Integers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Divide_Two_Integers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,46 +46,39 @@
     <session id="1312411289">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1914" />
+          <entry key="java" value="2083" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1914" />
+          <entry key="JAVA" value="2083" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/Divide_Two_Integers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -107,6 +102,7 @@
         <option value="$PROJECT_DIR$/src/LeetCode/Atoi.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Container_With_Most_Water.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Divide_Two_Integers.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/Buying_Stock1.java" />
       </list>
     </option>
   </component>
@@ -116,11 +112,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds">
     <option name="x" value="960" />
-    <option name="y" value="20" />
+    <option name="y" value="80" />
     <option name="width" value="960" />
-    <option name="height" value="1060" />
+    <option name="height" value="855" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -130,7 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,19 +149,19 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533564140289" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533658160121" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -179,9 +175,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Divide_Two_Integers">
+  <component name="RunManager" selected="Application.Buying_Stock1">
     <configuration name="Atoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Atoi" />
+      <module name="Algorithms_Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Buying_Stock1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Buying_Stock1" />
       <module name="Algorithms_Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -242,14 +252,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="Algorithms_Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -265,19 +267,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.test" />
       <item itemvalue="Application.LongestSubstring" />
       <item itemvalue="Application.Atoi" />
       <item itemvalue="Application.Container_With_Most_Water" />
       <item itemvalue="Application.Divide_Two_Integers" />
+      <item itemvalue="Application.Buying_Stock1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Buying_Stock1" />
         <item itemvalue="Application.Divide_Two_Integers" />
         <item itemvalue="Application.Container_With_Most_Water" />
         <item itemvalue="Application.Atoi" />
         <item itemvalue="Application.LongestSubstring" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -309,12 +311,15 @@
       <workItem from="1532330389733" duration="599000" />
       <workItem from="1532876586260" duration="3442000" />
       <workItem from="1533410281082" duration="2879000" />
-      <workItem from="1533561385697" duration="2891000" />
+      <workItem from="1533561385697" duration="4081000" />
+      <workItem from="1533656479809" duration="44000" />
+      <workItem from="1533657959331" duration="200000" />
+      <workItem from="1533658191995" duration="258000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41300000" />
+    <option name="totallyTimeSpent" value="42992000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -326,10 +331,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="20" width="960" height="1060" extended-state="4" />
-    <editor active="true" />
+    <frame x="960" y="80" width="960" height="855" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.36951753" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3267544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -338,7 +342,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32850942" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31556502" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31514326" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978677" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -562,16 +566,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="17" selection-start-column="17" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/Divide_Two_Integers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Buying_Stock1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

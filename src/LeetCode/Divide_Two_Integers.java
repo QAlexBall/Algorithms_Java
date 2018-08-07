@@ -1,7 +1,5 @@
 package LeetCode;
 
-import edu.princeton.cs.algs4.In;
-
 public class Divide_Two_Integers {
     public int divide(int dividend, int divisor) {
         boolean isPostive = true;
