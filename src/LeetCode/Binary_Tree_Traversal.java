@@ -1,12 +1,9 @@
 package LeetCode;
 
-import edu.princeton.cs.algs4.In;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
-
 
 //  Definition for a binary tree node.
 class TreeNode {
@@ -19,22 +16,21 @@ class TreeNode {
     }
 }
 
-public class Binary_Tree_Inorder_Traversal {
-
-    private void inorderTraversal2(TreeNode root, List<Integer> list) {
+public class Binary_Tree_Traversal {
+    private void inorder_helper(TreeNode root, List<Integer> list) {
         if (root != null) {
-            inorderTraversal2(root.left, list);
+            inorder_helper(root.left, list);
             System.out.println(root.val);
             list.add(root.val);
-            if (root.right != null) inorderTraversal2(root.right, list);
+            if (root.right != null) inorder_helper(root.right, list);
         }
     }
-    public List<Integer> inorderTraversal1(TreeNode root) {
+
+    public List<Integer> inorder(TreeNode root) {
         List<Integer> list = new ArrayList<>();
-        inorderTraversal2(root, list);
+        inorder_helper(root, list);
         return list;
     }
-
     private List<Integer> inorderTraversal(TreeNode root) {
 
         List<Integer> list = new ArrayList<>();
@@ -52,6 +48,15 @@ public class Binary_Tree_Inorder_Traversal {
         return list;
     }
 
+    private void ComputeEveryLevelSize(ArrayDeque<TreeNode> queue, int levelSize, List<Integer> levelList) {
+        TreeNode root;
+        for(int i = 0; i < levelSize; i++) {
+            root = queue.removeLast();
+            levelList.add(root.val);
+            if(root.left != null) queue.addFirst(root.left);
+            if(root.right != null) queue.addFirst(root.right);
+        }
+    }
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> list = new ArrayList<List<Integer>>();
         ArrayDeque<TreeNode> queue = new ArrayDeque<>();
@@ -60,18 +65,27 @@ public class Binary_Tree_Inorder_Traversal {
         while(!queue.isEmpty()) {
             int levelSize = queue.size();
             List<Integer> levelList = new LinkedList<>();
-            for(int i = 0; i < levelSize; i++) {
-                root = queue.removeLast();
-                levelList.add(root.val);
-                if(root.left != null) queue.addFirst(root.left);
-                if(root.right != null) queue.addFirst(root.right);
-            }
+            ComputeEveryLevelSize((ArrayDeque<TreeNode>) queue, levelSize, levelList);
             list.add(levelList);
         }
         return list;
     }
+    public List<List<Integer>> levelOrderBottom(TreeNode root) {
+        List<List<Integer>> list = new ArrayList<List<Integer>>();
+        ArrayDeque<TreeNode> queue = new ArrayDeque<>();
+        if(root == null) return list;
+        queue.addFirst(root);
+        while(!queue.isEmpty()) {
+            int levelSize = queue.size();
+            List<Integer> levelList = new LinkedList<>();
+            ComputeEveryLevelSize((ArrayDeque<TreeNode>) queue, levelSize, levelList);
+            list.add(0, levelList);
+        }
+        return list;
+    }
+
     private static TreeNode stringToTreeNode(String input) {
-        input = input.trim();
+        input = input.trim();   // 从当前 String 对象移除所有前导空白字符和尾部空白字符。
         input = input.substring(1, input.length() - 1);
         if (input.length() == 0) {
             return null;
@@ -122,7 +136,6 @@ public class Binary_Tree_Inorder_Traversal {
         }
         return "[" + result.substring(0, result.length() - 2) + "]";
     }
-
     private static String integerArrayListToString(List<Integer> nums) {
         return integerArrayListToString(nums, nums.size());
     }
@@ -133,7 +146,7 @@ public class Binary_Tree_Inorder_Traversal {
         while ((line = in.readLine()) != null) {
             TreeNode root = stringToTreeNode(line);
 
-            List<Integer> ret = new Binary_Tree_Inorder_Traversal().inorderTraversal(root);
+            List<Integer> ret = new Binary_Tree_Traversal().inorderTraversal(root);
 
             String out = integerArrayListToString(ret);
             System.out.print(out);
