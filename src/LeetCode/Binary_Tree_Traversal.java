@@ -85,7 +85,8 @@ public class Binary_Tree_Traversal {
     }
 
     private static TreeNode stringToTreeNode(String input) {
-        input = input.trim();   // 从当前 String 对象移除所有前导空白字符和尾部空白字符。
+        input = input.trim();   // trim()           从当前 String 对象移除所有前导空白字符和尾部空白字符。
+                                // trim(char[])     从当前 String 对象移除数组中指定的一组字符的所有前导匹配项和尾部匹配项。
         input = input.substring(1, input.length() - 1);
         if (input.length() == 0) {
             return null;
