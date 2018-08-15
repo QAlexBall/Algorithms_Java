@@ -84,6 +84,40 @@ public class Binary_Tree_Traversal {
         return list;
     }
 
+    private boolean balance = true;
+    public boolean isBalanced(TreeNode root) {
+        TreeDepth(root);
+        return balance;
+    }
+    private int TreeDepth(TreeNode root) {
+        if(root == null) return 0;
+        int left = TreeDepth(root.left);
+        int right = TreeDepth(root.right);
+
+        if(Math.abs(left - right) > 1) {
+            balance = false;
+        }
+        return Math.max(left, right) + 1;
+    }
+
+    public boolean isBalanced1(TreeNode root) {
+        if(root == null) return true;	//空树是平衡二叉树
+        //判断根节点的平衡因子是否大于1,或者小于1
+        int leftDepth = getDepth(root.left);
+        int rightDepth = getDepth(root.right);
+        if(Math.abs(rightDepth - leftDepth) > 1) {
+            return false;
+        } else {//如果根节点平衡因子正常,则判断它的左右结点是否为平衡二叉树
+            return isBalanced1(root.left) && isBalanced1(root.right);
+        }
+    }
+    private static int getDepth(TreeNode root) {
+        if(root == null) return 0;
+        int leftDepth = getDepth(root.left);
+        int rightDepth = getDepth(root.right);
+        return Math.max(leftDepth, rightDepth) + 1;
+    }
+
     private static TreeNode stringToTreeNode(String input) {
         input = input.trim();   // trim()           从当前 String 对象移除所有前导空白字符和尾部空白字符。
                                 // trim(char[])     从当前 String 对象移除数组中指定的一组字符的所有前导匹配项和尾部匹配项。

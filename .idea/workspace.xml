@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/LeetCode/Binary_Tree_Traversal.java" line="97" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="30275b7a-f41f-4fd4-9336-0a65393167da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LeetCode/Binary_Tree_Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Binary_Tree_Traversal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,21 +49,21 @@
           <entry key="project.closed" value="15" />
           <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="4" />
-          <entry key="project.open.time.17" value="5" />
+          <entry key="project.open.time.17" value="6" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.25" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="9435" />
+          <entry key="java" value="10437" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9435" />
+          <entry key="JAVA" value="10437" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -83,10 +85,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/Binary_Tree_Traversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="629">
+              <caret line="185" column="55" lean-forward="true" selection-start-line="185" selection-start-column="55" selection-end-line="185" selection-end-column="55" />
               <folding>
                 <element signature="class#TreeNode#0" />
+                <element signature="method#inorder_helper#0;class#Binary_Tree_Traversal#0" />
+                <element signature="method#inorder#0;class#Binary_Tree_Traversal#0" />
+                <element signature="method#inorderTraversal#0;class#Binary_Tree_Traversal#0" />
+                <element signature="method#ComputeEveryLevelSize#0;class#Binary_Tree_Traversal#0" />
+                <element signature="method#levelOrder#0;class#Binary_Tree_Traversal#0" />
+                <element signature="method#levelOrderBottom#0;class#Binary_Tree_Traversal#0" />
+                <element signature="method#isBalanced#0;class#Binary_Tree_Traversal#0" />
+                <element signature="method#TreeDepth#0;class#Binary_Tree_Traversal#0" />
+                <element signature="method#isBalanced1#0;class#Binary_Tree_Traversal#0" />
+                <element signature="method#getDepth#0;class#Solution#0;class#Binary_Tree_Traversal#0" />
+                <element signature="method#stringToTreeNode#0;class#Binary_Tree_Traversal#0" />
+                <element signature="method#integerArrayListToString#0;class#Binary_Tree_Traversal#0" />
+                <element signature="method#integerArrayListToString#1;class#Binary_Tree_Traversal#0" />
               </folding>
             </state>
           </provider>
@@ -132,10 +147,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="680" />
-    <option name="y" value="141" />
-    <option name="width" value="956" />
-    <option name="height" value="746" />
+    <option name="x" value="960" />
+    <option name="y" value="20" />
+    <option name="width" value="960" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -145,8 +160,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,7 +184,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534203972767" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534325641465" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -340,11 +355,12 @@
       <workItem from="1534194233952" duration="2454000" />
       <workItem from="1534212704862" duration="142000" />
       <workItem from="1534212952884" duration="52000" />
+      <workItem from="1534321453636" duration="4188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84659000" />
+    <option name="totallyTimeSpent" value="88847000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -356,9 +372,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="680" y="141" width="956" height="746" extended-state="0" />
+    <frame x="960" y="20" width="960" height="1060" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18612334" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18942732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -638,10 +655,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/Binary_Tree_Traversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="629">
+          <caret line="185" column="55" lean-forward="true" selection-start-line="185" selection-start-column="55" selection-end-line="185" selection-end-column="55" />
           <folding>
             <element signature="class#TreeNode#0" />
+            <element signature="method#inorder_helper#0;class#Binary_Tree_Traversal#0" />
+            <element signature="method#inorder#0;class#Binary_Tree_Traversal#0" />
+            <element signature="method#inorderTraversal#0;class#Binary_Tree_Traversal#0" />
+            <element signature="method#ComputeEveryLevelSize#0;class#Binary_Tree_Traversal#0" />
+            <element signature="method#levelOrder#0;class#Binary_Tree_Traversal#0" />
+            <element signature="method#levelOrderBottom#0;class#Binary_Tree_Traversal#0" />
+            <element signature="method#isBalanced#0;class#Binary_Tree_Traversal#0" />
+            <element signature="method#TreeDepth#0;class#Binary_Tree_Traversal#0" />
+            <element signature="method#isBalanced1#0;class#Binary_Tree_Traversal#0" />
+            <element signature="method#getDepth#0;class#Solution#0;class#Binary_Tree_Traversal#0" />
+            <element signature="method#stringToTreeNode#0;class#Binary_Tree_Traversal#0" />
+            <element signature="method#integerArrayListToString#0;class#Binary_Tree_Traversal#0" />
+            <element signature="method#integerArrayListToString#1;class#Binary_Tree_Traversal#0" />
           </folding>
         </state>
       </provider>
