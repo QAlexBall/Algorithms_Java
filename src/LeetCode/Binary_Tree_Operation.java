@@ -1,5 +1,7 @@
 package LeetCode;
 
+import edu.princeton.cs.algs4.In;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -16,7 +18,13 @@ class TreeNode {
     }
 }
 
-public class Binary_Tree_Traversal {
+public class Binary_Tree_Operation {
+    // 中序遍历二叉树
+    public List<Integer> inorder(TreeNode root) {
+        List<Integer> list = new ArrayList<>();
+        inorder_helper(root, list);
+        return list;
+    }
     private void inorder_helper(TreeNode root, List<Integer> list) {
         if (root != null) {
             inorder_helper(root.left, list);
@@ -25,12 +33,7 @@ public class Binary_Tree_Traversal {
             if (root.right != null) inorder_helper(root.right, list);
         }
     }
-
-    public List<Integer> inorder(TreeNode root) {
-        List<Integer> list = new ArrayList<>();
-        inorder_helper(root, list);
-        return list;
-    }
+    // 中序遍历(栈)
     private List<Integer> inorderTraversal(TreeNode root) {
 
         List<Integer> list = new ArrayList<>();
@@ -48,6 +51,7 @@ public class Binary_Tree_Traversal {
         return list;
     }
 
+    // 按层添加节点
     private void ComputeEveryLevelSize(ArrayDeque<TreeNode> queue, int levelSize, List<Integer> levelList) {
         TreeNode root;
         for(int i = 0; i < levelSize; i++) {
@@ -57,6 +61,7 @@ public class Binary_Tree_Traversal {
             if(root.right != null) queue.addFirst(root.right);
         }
     }
+    // 前层序遍历
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> list = new ArrayList<List<Integer>>();
         ArrayDeque<TreeNode> queue = new ArrayDeque<>();
@@ -70,6 +75,7 @@ public class Binary_Tree_Traversal {
         }
         return list;
     }
+    // 后层序遍历
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
         List<List<Integer>> list = new ArrayList<List<Integer>>();
         ArrayDeque<TreeNode> queue = new ArrayDeque<>();
@@ -84,6 +90,8 @@ public class Binary_Tree_Traversal {
         return list;
     }
 
+    /* 判断二叉树是否平衡 */
+    // 后序遍历
     private boolean balance = true;
     public boolean isBalanced(TreeNode root) {
         TreeDepth(root);
@@ -99,7 +107,7 @@ public class Binary_Tree_Traversal {
         }
         return Math.max(left, right) + 1;
     }
-
+    // 前序遍历
     public boolean isBalanced1(TreeNode root) {
         if(root == null) return true;	//空树是平衡二叉树
         //判断根节点的平衡因子是否大于1,或者小于1
@@ -117,6 +125,26 @@ public class Binary_Tree_Traversal {
         int rightDepth = getDepth(root.right);
         return Math.max(leftDepth, rightDepth) + 1;
     }
+
+    // 叶子相似的树
+    public boolean leafSimilar(TreeNode root1, TreeNode root2) {
+        List<Integer> leaves1 = new ArrayList<>();
+        List<Integer> leaves2 = new ArrayList<>();
+        dfs(root1, leaves1);
+        dfs(root2, leaves2);
+        return leaves1.equals(leaves2);
+    }
+    // 深度优先搜索
+    private void dfs(TreeNode node, List<Integer> leafVal) {
+        if(node != null) {
+            if(node.left == null && node.right == null)
+                leafVal.add(node.val);
+            dfs(node.left, leafVal);
+            dfs(node.right, leafVal);
+        }
+    }
+
+
 
     private static TreeNode stringToTreeNode(String input) {
         input = input.trim();   // trim()           从当前 String 对象移除所有前导空白字符和尾部空白字符。
@@ -158,7 +186,6 @@ public class Binary_Tree_Traversal {
         }
         return root;
     }
-
     private static String integerArrayListToString(List<Integer> nums, int length) {
         if (length == 0) {
             return "[]";
@@ -181,7 +208,7 @@ public class Binary_Tree_Traversal {
         while ((line = in.readLine()) != null) {
             TreeNode root = stringToTreeNode(line);
 
-            List<Integer> ret = new Binary_Tree_Traversal().inorderTraversal(root);
+            List<Integer> ret = new Binary_Tree_Operation().inorderTraversal(root);
 
             String out = integerArrayListToString(ret);
             System.out.print(out);
