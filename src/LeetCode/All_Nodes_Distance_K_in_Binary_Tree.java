@@ -22,7 +22,7 @@ public class All_Nodes_Distance_K_in_Binary_Tree {
         int l = help(root.left, target, res, K);
         int r = help(root.right, target, res, K);
 
-        if(l != -1) {
+        if(l != -1) {   // 如果target在root的左子树上
             if(l + 1 == K) {
                 res.add(root.val);
             } else {
@@ -30,8 +30,8 @@ public class All_Nodes_Distance_K_in_Binary_Tree {
             }
             return l + 1;
         }
-        
-        if(r != -1) {
+
+        if(r != -1) {   // 如果target在root的右子树上
             if(r + 1 == K) {
                 res.add(root.val);
             } else {
