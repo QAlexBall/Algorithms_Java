@@ -90,6 +90,35 @@ public class Binary_Tree_Operation {
         return list;
     }
 
+    /* 二叉树最大深度 */
+    // 自顶向下(Top-down)
+    private int answer;		// don't forget to initialize answer before call maximum_depth
+    public int maxDepthTop2Down(TreeNode root) {
+        answer = 0;
+        int depth = 1;
+        maximum_depth(root, depth);
+        return answer;
+    }
+    private void maximum_depth(TreeNode root, int depth) {
+        if (root == null) {
+            return;
+        }
+        if (root.left == null && root.right == null) {
+            answer = Math.max(answer, depth);
+        }
+        maximum_depth(root.left, depth + 1);
+        maximum_depth(root.right, depth + 1);
+    }
+
+    // 自底向上(Bottom-up)
+    public int maxDepth(TreeNode root) {
+        if(root == null) return 0;
+        int left_depth = maxDepth(root.left);
+        int right_depth = maxDepth(root.right);
+        return Math.max(left_depth, right_depth) + 1;
+    }
+
+
     /* 判断二叉树是否平衡 */
     // 后序遍历
     private boolean balance = true;
