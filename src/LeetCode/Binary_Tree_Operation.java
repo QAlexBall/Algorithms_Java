@@ -174,6 +174,23 @@ public class Binary_Tree_Operation {
     }
 
 
+    /**
+     * 给定一个二叉树和一个目标和，判断该树中是否存在根节点到叶子节点的路径，这条路径上所有节点值相加等于目标和。
+     * 说明: 叶子节点是指没有子节点的节点。
+     * @param root;
+     * @param sum;
+     * @return true or false;
+     */
+
+    public boolean hasPathSum(TreeNode root, int sum) {
+        if(root == null) return false;
+        if (root.left == null && root.right == null) return sum == root.val;
+        if (root.left == null) return hasPathSum(root.right, sum-root.val);
+        if (root.right == null) return hasPathSum(root.left, sum-root.val);
+        return hasPathSum(root.left, sum-root.val) || hasPathSum(root.right, sum-root.val);
+    }
+
+
 
     private static TreeNode stringToTreeNode(String input) {
         input = input.trim();   // trim()           从当前 String 对象移除所有前导空白字符和尾部空白字符。
