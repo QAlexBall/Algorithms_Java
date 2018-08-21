@@ -1,10 +1,9 @@
 package LeetCode;
 
+import com.sun.org.apache.xerces.internal.impl.dv.util.ByteListImpl;
 import edu.princeton.cs.algs4.In;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.*;
 
 //  Definition for a binary tree node.
@@ -190,12 +189,18 @@ public class Binary_Tree_Operation {
         return hasPathSum(root.left, sum-root.val) || hasPathSum(root.right, sum-root.val);
     }
 
-
+    /**
+     * 根据一棵树的中序遍历与后序遍历构造二叉树。
+     */
+    public TreeNode buildTree(int[] inoder, int[] postorder) {
+        TreeNode root = new TreeNode(0);
+        return root;
+    }
 
     private static TreeNode stringToTreeNode(String input) {
         input = input.trim();   // trim()           从当前 String 对象移除所有前导空白字符和尾部空白字符。
                                 // trim(char[])     从当前 String 对象移除数组中指定的一组字符的所有前导匹配项和尾部匹配项。
-        input = input.substring(1, input.length() - 1);
+        // input = input.substring(1, input.length() - 1);
         if (input.length() == 0) {
             return null;
         }
@@ -249,15 +254,26 @@ public class Binary_Tree_Operation {
     }
 
     public static void main(String[] args) throws IOException {
-        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+        InputStream in1 = new FileInputStream("src/LeetCode/a.txt");
+        BufferedReader in = new BufferedReader(new InputStreamReader(in1));
         String line;
-        while ((line = in.readLine()) != null) {
-            TreeNode root = stringToTreeNode(line);
+//        while ((line = in.readLine()) != null) {
+//            TreeNode root = stringToTreeNode(line);
+//            List<Integer> ret = new Binary_Tree_Operation().inorderTraversal(root);
+//            // String out = integerArrayListToString(ret);
+//            // System.out.print(out);
+//        }
+        Binary_Tree_Operation bto = new Binary_Tree_Operation();
 
-            List<Integer> ret = new Binary_Tree_Operation().inorderTraversal(root);
+        TreeNode root = stringToTreeNode(line = in.readLine());
+        BSTIterator bst = new BSTIterator(root);
+        System.out.println(bst.hasNext());
+        System.out.println(bst.next());
 
-            String out = integerArrayListToString(ret);
-            System.out.print(out);
-        }
+        List<Integer> ret = new Binary_Tree_Operation().inorderTraversal(root);
+        // String out = integerArrayListToString(ret);
+        System.out.println(ret);
+        
+        System.out.println(bto.maxDepthTop2Down(root));
     }
 }
