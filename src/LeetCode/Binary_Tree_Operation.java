@@ -179,7 +179,7 @@ public class Binary_Tree_Operation {
      * @param root;
      * @param sum;
      * @return true or false;
-     */
+     */                                                       
 
     public boolean hasPathSum(TreeNode root, int sum) {
         if(root == null) return false;
@@ -192,8 +192,25 @@ public class Binary_Tree_Operation {
     /**
      * 根据一棵树的中序遍历与后序遍历构造二叉树。
      */
-    public TreeNode buildTree(int[] inoder, int[] postorder) {
-        TreeNode root = new TreeNode(0);
+    public TreeNode buildTree(int[] inorder, int[] postorder) {
+        int inStart = 0;
+        int inEnd = inorder.length - 1;
+        int postEnd = inEnd;
+        return buildTree(inorder, postorder, inStart, inEnd, postEnd);
+    }
+    public TreeNode buildTree(int[] inorder, int[] postorder, int inStart, int inEnd, int postEnd) {
+        if(inStart > inEnd || postEnd < 0) return null;
+        TreeNode root = new TreeNode(postorder[postEnd]);
+
+        int index = 0;
+        for(int i = inStart; i <= inEnd; i++) {
+            if(inorder[i] == root.val) {
+                index = i;
+                break;
+            }
+        }
+        root.left = buildTree(inorder, postorder, inStart, index -1, postEnd - (inEnd - index) - 1);
+        root.right = buildTree(inorder, postorder, index + 1, inEnd, postEnd -1);
         return root;
     }
 
@@ -273,7 +290,7 @@ public class Binary_Tree_Operation {
         List<Integer> ret = new Binary_Tree_Operation().inorderTraversal(root);
         // String out = integerArrayListToString(ret);
         System.out.println(ret);
-        
+
         System.out.println(bto.maxDepthTop2Down(root));
     }
 }
