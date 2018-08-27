@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.TreeOperation;
 
 import edu.princeton.cs.algs4.Stack;
 

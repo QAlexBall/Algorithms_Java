@@ -1,4 +1,6 @@
-package LeetCode;
+package LeetCode.TreeOperation;
+
+import LeetCode.TreeOperation.TreeNode;
 
 import java.util.*;
 

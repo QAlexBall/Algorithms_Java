@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.TreeOperation;
 
 public class BST_Operation {
     /**

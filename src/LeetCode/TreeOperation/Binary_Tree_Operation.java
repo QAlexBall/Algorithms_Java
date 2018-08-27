@@ -1,7 +1,4 @@
-package LeetCode;
-
-import com.sun.org.apache.xerces.internal.impl.dv.util.ByteListImpl;
-import edu.princeton.cs.algs4.In;
+package LeetCode.TreeOperation;
 
 import java.io.*;
 import java.util.*;
@@ -195,10 +192,10 @@ public class Binary_Tree_Operation {
     public TreeNode buildTree(int[] inorder, int[] postorder) {
         int inStart = 0;
         int inEnd = inorder.length - 1;
-        int postEnd = inEnd;
+        int postEnd = postorder.length - 1;
         return buildTree(inorder, postorder, inStart, inEnd, postEnd);
     }
-    public TreeNode buildTree(int[] inorder, int[] postorder, int inStart, int inEnd, int postEnd) {
+    private TreeNode buildTree(int[] inorder, int[] postorder, int inStart, int inEnd, int postEnd) {
         if(inStart > inEnd || postEnd < 0) return null;
         TreeNode root = new TreeNode(postorder[postEnd]);
 
