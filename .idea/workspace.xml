@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30275b7a-f41f-4fd4-9336-0a65393167da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/TreeOperation/NArrayTree/NTPreorder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms_Java/LeetCode/Binary_Tree_Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms_Java/LeetCode/Binary_Tree_Operation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/All_Nodes_Distance_K_in_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/TreeOperation/All_Nodes_Distance_K_in_Binary_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/BSTIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/TreeOperation/BSTIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/BST_Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/TreeOperation/BST_Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Binary_Tree_Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/TreeOperation/Binary_Tree_Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/TreeOperation/NArrayTree/NTPreorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/TreeOperation/NArrayTree/NTTraversal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,7 +47,7 @@
     <session id="1312411289">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="37" />
+          <entry key="project.closed" value="38" />
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.15" value="4" />
           <entry key="project.open.time.16" value="8" />
@@ -62,34 +56,35 @@
           <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.25" value="1" />
-          <entry key="project.opened" value="38" />
+          <entry key="project.opened" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
-          <entry key="java" value="17774" />
+          <entry key="java" value="18018" />
           <entry key="txt" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="17774" />
+          <entry key="JAVA" value="18018" />
           <entry key="PLAIN_TEXT" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
-          <entry key="java" value="39" />
+          <entry key="java" value="40" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="39" />
+          <entry key="JAVA" value="40" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -97,11 +92,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/TreeOperation/NArrayTree/NTPreorder.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/TreeOperation/NArrayTree/NTTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="629">
+              <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/TreeOperation/Binary_Tree_Operation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-651">
-              <caret line="86" column="5" lean-forward="true" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+            <state relative-caret-position="17">
+              <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
               <folding>
                 <element signature="method#inorder#0;class#Binary_Tree_Operation#0" />
                 <element signature="method#inorder_helper#0;class#Binary_Tree_Operation#0" />
@@ -181,6 +176,8 @@
         <option value="$PROJECT_DIR$/src/LeetCode/TreeOperation/Binary_Tree_Operation.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/TreeOperation/All_Nodes_Distance_K_in_Binary_Tree.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/TreeOperation/NArrayTree/NTPreorder.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/TreeOperation/NArrayTree/NTTtaversal.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/TreeOperation/NArrayTree/NTTraversal.java" />
       </list>
     </option>
   </component>
@@ -190,7 +187,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds">
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1080" />
@@ -204,7 +201,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -237,18 +233,27 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="TreeOperation" type="462c0819:PsiDirectoryNode" />
+              <item name="NArrayTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="TreeOperation" type="462c0819:PsiDirectoryNode" />
               <item name="Binary_Tree_Operation.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535292620120" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535466218044" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -440,11 +445,12 @@
       <workItem from="1535162677057" duration="2297000" />
       <workItem from="1535266991257" duration="3355000" />
       <workItem from="1535342632090" duration="5292000" />
+      <workItem from="1535465356887" duration="861000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150140000" />
+    <option name="totallyTimeSpent" value="151001000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -456,10 +462,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1080" extended-state="4" />
+    <frame x="960" y="0" width="960" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.37171054" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37171054" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -784,20 +790,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/TreeOperation/NArrayTree/NTPreorder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/TreeOperation/Binary_Tree_Operation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-651">
-          <caret line="86" column="5" lean-forward="true" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+        <state relative-caret-position="17">
+          <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
           <folding>
             <element signature="method#inorder#0;class#Binary_Tree_Operation#0" />
             <element signature="method#inorder_helper#0;class#Binary_Tree_Operation#0" />
@@ -817,6 +813,19 @@
             <element signature="method#stringToTreeNode#0;class#Binary_Tree_Operation#0" />
             <element signature="method#integerArrayListToString#0;class#Binary_Tree_Operation#0" />
             <element signature="method#integerArrayListToString#1;class#Binary_Tree_Operation#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/TreeOperation/NArrayTree/NTTtaversal.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/TreeOperation/NArrayTree/NTTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

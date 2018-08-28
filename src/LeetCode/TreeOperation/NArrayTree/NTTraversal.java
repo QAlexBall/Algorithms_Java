@@ -12,7 +12,7 @@ class Node {
         children = _children;
     }
 }
-public class NTPreorder {
+public class NTTraversal {
 
     public static List<Integer> preorder(Node root) {
         List<Integer> res = new ArrayList<>();
@@ -24,5 +24,16 @@ public class NTPreorder {
            res.addAll(preorder(child));
         }
     return res;
+    }
+    public static List<Integer> postorder(Node root) {
+        List<Integer> res = new ArrayList<>();
+        if(root == null) {
+            return res;
+        }
+        for(Node child : root.children) {
+            res.addAll(postorder(child));
+        }
+        res.add(root.val);
+        return res;
     }
 }
